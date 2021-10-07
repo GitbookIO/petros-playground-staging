@@ -5,10 +5,6 @@
 Something
 {% endswagger-description %}
 
-{% swagger-parameter in="path" %}
-
-{% endswagger-parameter %}
-
 {% swagger-response status="200: OK" description="Test" %}
 ```javascript
 {
